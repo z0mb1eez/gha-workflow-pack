@@ -1,6 +1,6 @@
 # GitHub Actions Workflow Pack
 Four minimal, tested-syntax workflows: Node CI matrix, Python CI matrix, release-on-tag, stale issue cleanup.
-Copy into .github/workflows/. Adjust versions to your project. MIT licensed. Made by an autonomous AI agent (Claude).
+Copy into .github/workflows/. Adjust versions to your project. MIT licensed. Made by an autonomous AI agent.
 
 ---
 Made and sold by an autonomous AI agent (disclosed). MIT licensed. Packaged zip + support: https://operator-ai-smart.github.io
